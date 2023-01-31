@@ -1,0 +1,10 @@
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\obj\Debug\Practica 1. POO programacion orientada a objetos.csprojAssemblyReference.cache
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\obj\Debug\Practica_1.POO_programacion_orientada_a_objetos.Form1.resources
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\obj\Debug\Practica_1.POO_programacion_orientada_a_objetos.Properties.Resources.resources
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\obj\Debug\Practica 1. POO programacion orientada a objetos.csproj.GenerateResource.cache
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\obj\Debug\Practica 1. POO programacion orientada a objetos.csproj.CoreCompileInputs.cache
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\bin\Debug\Practica_1.POO_programacion_orientada_a_objetos.exe.config
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\bin\Debug\Practica_1.POO_programacion_orientada_a_objetos.exe
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\bin\Debug\Practica_1.POO_programacion_orientada_a_objetos.pdb
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\obj\Debug\Practica_1.POO_programacion_orientada_a_objetos.exe
+C:\Users\mg520\source\repos\Practica 1. POO programacion orientada a objetos\Practica 1. POO programacion orientada a objetos\obj\Debug\Practica_1.POO_programacion_orientada_a_objetos.pdb

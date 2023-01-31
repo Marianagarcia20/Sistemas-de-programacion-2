@@ -1,0 +1,12 @@
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\bin\Debug\Practica_1.POO.exe.config
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\bin\Debug\Practica_1.POO.exe
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\bin\Debug\Practica_1.POO.pdb
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\bin\Debug\Practica_1.POO.xml
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\obj\Debug\Practica 1. POO.vbprojAssemblyReference.cache
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\obj\Debug\Practica_1.POO.Form1.resources
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\obj\Debug\Practica_1.POO.Resources.resources
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\obj\Debug\Practica 1. POO.vbproj.GenerateResource.cache
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\obj\Debug\Practica 1. POO.vbproj.CoreCompileInputs.cache
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\obj\Debug\Practica_1.POO.exe
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\obj\Debug\Practica_1.POO.xml
+C:\Users\mg520\source\repos\Practica 1. POO\Practica 1. POO\obj\Debug\Practica_1.POO.pdb
