@@ -1,0 +1,12 @@
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\bin\Debug\Practica_2.POO_Clase_persona_contacto.exe.config
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\bin\Debug\Practica_2.POO_Clase_persona_contacto.exe
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\bin\Debug\Practica_2.POO_Clase_persona_contacto.pdb
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\bin\Debug\Practica_2.POO_Clase_persona_contacto.xml
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\obj\Debug\Practica 2. POO Clase persona contacto.vbprojAssemblyReference.cache
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\obj\Debug\Practica_2.POO_Clase_persona_contacto.Form1.resources
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\obj\Debug\Practica_2.POO_Clase_persona_contacto.Resources.resources
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\obj\Debug\Practica 2. POO Clase persona contacto.vbproj.GenerateResource.cache
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\obj\Debug\Practica 2. POO Clase persona contacto.vbproj.CoreCompileInputs.cache
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\obj\Debug\Practica_2.POO_Clase_persona_contacto.exe
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\obj\Debug\Practica_2.POO_Clase_persona_contacto.xml
+C:\Users\mg520\source\repos\Practica 2. POO Clase persona contacto\Practica 2. POO Clase persona contacto\obj\Debug\Practica_2.POO_Clase_persona_contacto.pdb
