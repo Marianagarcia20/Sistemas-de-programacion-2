@@ -1,0 +1,12 @@
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\bin\Debug\Practica_1.POO_2D.exe.config
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\bin\Debug\Practica_1.POO_2D.exe
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\bin\Debug\Practica_1.POO_2D.pdb
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\bin\Debug\Practica_1.POO_2D.xml
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\obj\Debug\Practica 1. POO 2D.vbprojAssemblyReference.cache
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\obj\Debug\Practica_1.POO_2D.Form1.resources
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\obj\Debug\Practica_1.POO_2D.Resources.resources
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\obj\Debug\Practica 1. POO 2D.vbproj.GenerateResource.cache
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\obj\Debug\Practica 1. POO 2D.vbproj.CoreCompileInputs.cache
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\obj\Debug\Practica_1.POO_2D.exe
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\obj\Debug\Practica_1.POO_2D.xml
+C:\Users\mg520\source\repos\Practica 1. POO 2D\Practica 1. POO 2D\obj\Debug\Practica_1.POO_2D.pdb

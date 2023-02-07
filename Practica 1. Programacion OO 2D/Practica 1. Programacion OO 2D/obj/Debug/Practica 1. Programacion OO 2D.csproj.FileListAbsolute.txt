@@ -1,0 +1,10 @@
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\bin\Debug\Practica_1.Programacion_OO_2D.exe.config
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\bin\Debug\Practica_1.Programacion_OO_2D.exe
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\bin\Debug\Practica_1.Programacion_OO_2D.pdb
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\obj\Debug\Practica 1. Programacion OO 2D.csprojAssemblyReference.cache
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\obj\Debug\Practica_1.Programacion_OO_2D.Form1.resources
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\obj\Debug\Practica_1.Programacion_OO_2D.Properties.Resources.resources
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\obj\Debug\Practica 1. Programacion OO 2D.csproj.GenerateResource.cache
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\obj\Debug\Practica 1. Programacion OO 2D.csproj.CoreCompileInputs.cache
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\obj\Debug\Practica_1.Programacion_OO_2D.exe
+C:\Users\mg520\source\repos\Practica 1. Programacion OO 2D\Practica 1. Programacion OO 2D\obj\Debug\Practica_1.Programacion_OO_2D.pdb
